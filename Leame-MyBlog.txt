@@ -1,0 +1,19 @@
+Les envío adjunto el archivo del proyecto en eclipse con la aplicación ejemplo sobre la que vamos a trabajar las próximas clases.
+
+Esta aplicación consiste en una primera versión de un blog sencillo, permite acceder al blog y administrarlo. Permite agregar entradas al blog, agregar comentarios a cada entrada. Van a notar que la funcionalidad es muy básica, consta solamente de 3 ficheros jsp: 
+
+ - index.jsp 	 es la página principal donde se muestran las entradas del blog 
+
+ - entry.jsp 	 con el detalle para una entrada en particular con sus comentarios y un formulario para agregar comentarios
+
+ - new_entry.jsp contiene el formulario para crear una entrada. 
+
+También van a notar otras falencias en esta versión: 
+ - no autentica al usuario, 
+ - no está implementado la edición y borrado de entradas, 
+ - los datos no son persistentes se almacenan en memoria, 
+ - no hay vínculos entre las páginas, etc.
+
+Mi idea es ir evolucionando la aplicación, agregándole mejoras en el transcurso de las clases.
+
+Saludos.
